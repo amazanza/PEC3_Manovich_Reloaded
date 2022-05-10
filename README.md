@@ -20,6 +20,7 @@ Fecha: Mayo 2022
 ![image](https://user-images.githubusercontent.com/104756604/167640173-03fd7632-3057-4f48-9292-2ba884db44cb.png)
 
 Adaptar el universo de fantasía de [**Canción de Hielo y Fuego**](https://es.wikipedia.org/wiki/Canci%C3%B3n_de_hielo_y_fuego) a un videojuego siempre ha presentado un enorme reto. Habitualmente ha sido muy complicado **adaptar un medio escrito a un formato interactivo.** El objetivo de convertir las páginas de las novelas en una experiencia jugable tenía los condicionantes de resultar fiel a la obra de Martin y disfrutable para los jugadores. Muchos fueron los estudios que se habían atrevido a acometer  tal desafío, la mayoría fracasaron.
+A finales del año 2014 se estrenó el primer capítulo del juego [**Juego de Tronos: A Telltale Games Series**](https://es.wikipedia.org/wiki/Juego_de_tronos_(videojuego_de_2014), que transcurría paralelamente a los eventos de la [**serie de televisión de HBO.**](https://es.wikipedia.org/wiki/Game_of_Thrones) Una transición entre televisión y videojuego que resultó muy eficaz. Cuenta con una narrativa muy potente y cinematográfica, y como aventura gráfica posee un esquema similar a los de los libros [**“Elige tu propia aventura”**](https://es.wikipedia.org/wiki/Elige_tu_propia_aventura), en los que las decisiones de los jugadores determinarán el desarrollo del juego.
 
 ## Caso 2: "Crystal world" de Ann Lislegaard
   ![image](https://user-images.githubusercontent.com/104756604/167624945-65a7f385-7328-4e1c-a008-0daaa9884363.png)
