@@ -19,6 +19,8 @@ Fecha: Mayo 2022
 
 ![image](https://user-images.githubusercontent.com/104756604/167640173-03fd7632-3057-4f48-9292-2ba884db44cb.png)
 
+Adaptar el universo de fantasía de [**Canción de Hielo y Fuego**](https://es.wikipedia.org/wiki/Canci%C3%B3n_de_hielo_y_fuego) a un videojuego siempre ha presentado un enorme reto. Habitualmente ha sido muy complicado **adaptar un medio escrito a un formato interactivo.** El objetivo de convertir las páginas de las novelas en una experiencia jugable tenía los condicionantes de resultar fiel a la obra de Martin y disfrutable para los jugadores. Muchos fueron los estudios que se habían atrevido a acometer  tal desafío, la mayoría fracasaron.
+
 ## Caso 2: "Crystal world" de Ann Lislegaard
   ![image](https://user-images.githubusercontent.com/104756604/167624945-65a7f385-7328-4e1c-a008-0daaa9884363.png)
 
