@@ -16,8 +16,13 @@ Fecha: Mayo 2022
 ## Caso 1: Juego de Tronos Telltales Games
 
 ## Caso 2: "Crystal world" de Ann Lislegaard
-  La obra ***Crystal World*** **de Ann Lislegaard (2006)** es una animación en 3D que relata el viaje a un laboratorio abandonado en una jungla que se está cristalizando lentamente. La animación se mueve a través de espacios arquitectónicos que combinan elementos de la Casa de Vidrio de Lina Bo Bardi (1951),  ubicada en Morumbi, al sur de Sao Paulo, con el Pabellón Matarazzo de Oscar Niemeyer (1957), antiguo Palacio de la Industria de la misma ciudad.
+  ![image](https://user-images.githubusercontent.com/104756604/167624945-65a7f385-7328-4e1c-a008-0daaa9884363.png)
+
+  La obra ***Crystal World*** **de Ann Lislegaard (2006)** es una animación en 3D que relata el viaje a un laboratorio abandonado en una jungla que se está cristalizando lentamente. La animación se mueve a través de espacios arquitectónicos que combinan elementos de la [Casa de Vidrio de Lina Bo Bardi (1951)](https://www.youtube.com/watch?v=8RDMVHuKGN8&t=1s),  ubicada en Morumbi, al sur de Sao Paulo, con el [Pabellón Matarazzo de Oscar Niemeyer (1957)](https://www.youtube.com/watch?v=aR-6DpASWwc), antiguo Palacio de la Industria de la misma ciudad.
   Acompañando al movimiento van apareciendo citas del protagonista de la novela **“El mundo de cristal”**, escrita por **J. G. Ballard** y publicada en 1966. En la obra de Lislegaard , que toma su nombre de esta novela, se utilizan las palabras del doctor Edward Sander para describir el espacio en el que se desarrolla como un lugar de transformación, usándolo para resaltar y aunar aspectos tan diversos como la modernidad, la entropía, el progreso, las estructuras minimalistas y el paso del tiempo.
+  
+
+
 
 
 ### Referencias y bibliografía:
