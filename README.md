@@ -15,6 +15,7 @@ Fecha: Mayo 2022
 
 ## Caso 1: Juego de Tronos Telltales Games
 
+
 ## Caso 2: "Crystal world" de Ann Lislegaard
   ![image](https://user-images.githubusercontent.com/104756604/167624945-65a7f385-7328-4e1c-a008-0daaa9884363.png)
 
