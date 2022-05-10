@@ -14,6 +14,8 @@ Fecha: Mayo 2022
 #
 
 ## Planteamiento
+- Caso 1: Juego de Tronos Telltales Games
+- Caso 2: "Crystal world" de Ann Lislegaard
 
 ## Caso 1: Juego de Tronos Telltales Games
 
