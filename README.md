@@ -34,6 +34,7 @@ Fecha: Mayo 2022
 - Game of Thrones Juego de Tronos Temporada 1 Episodio 1 Gameplay Español (telltale games) (Youtube). Recuperado el 10 de mayo de 2022, de https://www.youtube.com/watch?v=xukR5WLFkbg
 
 - "Crystal world (After J.G. Ballard)", by Ann Lislegaard (Excerpt) (Youtube). Recuperado el 10 de mayo de 2022, de https://www.youtube.com/watch?v=CqNV28AK894&t=162s
+- Sintaxis de Markdown. Recuperado el 6 de mayo de 2022, de https://markdown.es/sintaxis-markdown/
 
 ---
 
