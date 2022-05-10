@@ -47,4 +47,4 @@ A finales del año 2014 se estrenó el primer capítulo del juego [**Juego de Tr
 
 ---
 
-Licencia: Material Creative Commons desarrollado bajo licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es). Imágenes bajo licencia [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) de **Alchetron** para [Juego de Tronos: *A Telltales Games Series*](https://alchetron.com/Game-of-Thrones-(2014-video-game)), [Ann Lislegaard](https://alchetron.com/Ann-Lislegaard) y [la portada.](https://www.freepik.es/vector-gratis/media-flat-set_2868633.htm#query=medios&position=4&from_view=search)
+Licencia: Material Creative Commons desarrollado bajo licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es). Imágenes bajo licencia [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) de **Alchetron** para [Juego de Tronos: *A Telltales Games Series*](https://alchetron.com/Game-of-Thrones-(2014-video-game)) y [Ann Lislegaard](https://alchetron.com/Ann-Lislegaard) y **Freepik** para [la portada.](https://www.freepik.es/vector-gratis/media-flat-set_2868633.htm#query=medios&position=4&from_view=search)
