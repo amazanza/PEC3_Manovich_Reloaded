@@ -18,6 +18,11 @@ Fecha: Mayo 2022
 ## Caso 2:
 
 ### Referencias y bibliografía:
+- Manovich, Lev. (2013). El Software toma el mando. Editorial UOC.
+
+- Manovich, Lev. (2001). El lenguaje de los nuevos medios de comunicación. Editorial UOC.
+
+- "Crystal world (After J.G. Ballard)", by Ann Lislegaard (Excerpt) (Youtube). Recuperado el 10 de mayo de 2022, de https://www.youtube.com/watch?v=CqNV28AK894&t=162s
 
 ---
 
