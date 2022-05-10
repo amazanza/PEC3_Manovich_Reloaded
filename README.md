@@ -14,10 +14,10 @@ Fecha: Mayo 2022
 #
 
 ## Planteamiento
-- [Caso 1: Juego de Tronos: *Telltales Games*](#head1)
+- [Caso 1: Juego de Tronos: *A Telltales Games Series*](#head1)
 - [Caso 2: *Crystal world* de Ann Lislegaard](#head2)
 
-## <a name="head1">Caso 1: Juego de Tronos: *Telltales Games*</a>
+## <a name="head1">Caso 1: Juego de Tronos: *A Telltales Games Series*</a>
 
 ![image](https://user-images.githubusercontent.com/104756604/167647256-c156e29a-2df8-402d-99bc-585cf280e785.png)
 
@@ -47,4 +47,4 @@ A finales del año 2014 se estrenó el primer capítulo del juego [**Juego de Tr
 
 ---
 
-Licencia: Material Creative Commons desarrollado bajo licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es). Imágenes bajo licencia [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) de **Alchetron** para [Juego de Tronos: *Telltales Games*](https://alchetron.com/Game-of-Thrones-(2014-video-game)) y [Ann Lislegaard](https://alchetron.com/Ann-Lislegaard).
+Licencia: Material Creative Commons desarrollado bajo licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es). Imágenes bajo licencia [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) de **Alchetron** para [Juego de Tronos: *A Telltales Games Series*](https://alchetron.com/Game-of-Thrones-(2014-video-game)) y [Ann Lislegaard](https://alchetron.com/Ann-Lislegaard).
