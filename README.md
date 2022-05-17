@@ -14,7 +14,7 @@ Fecha: Mayo 2022
 #
 
 ## Planteamiento
-Cuando **Lev Manovich** expuso en su libro **“El software toma el mando” (2013)** el concepto de *hibridación de los medios* claramente fue capaz de predecir el enorme alcance que esta nueva manera de percibir el mundo iba a tener en el desarrollo de la historia de la humanidad. Estudió el concepto como el **siguiente paso en la evolución** del concepto de productividad en todas las facetas del desarrollo humano y, como tal, realizó una serie de estudios de diversos casos en particular.
+Cuando **Lev Manovich** expuso en su libro **“El software toma el mando” (2013)** el concepto de *hibridación de los medios* claramente fue capaz de predecir el enorme alcance que esta nueva manera de percibir el mundo iba a tener en el desarrollo de la historia de la humanidad. Estudió el concepto como el **siguiente paso en la evolución** de la productividad en todas las facetas del desarrollo humano y, como tal, realizó una serie de estudios de diversos casos en particular.
 
 >«Por lo tanto, si bien en 1977 Kay y Goldberg especularon que el nuevo metamedio ordenador contendría «un amplio abanico de medios ya existentes y otros aún por inventar», hoy por hoy podemos describir uno de los principales mecanismos que hay detrás de la invención de estos nuevos medios. Este mecanismo es la hibridación.
 Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones.».
