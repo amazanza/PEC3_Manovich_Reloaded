@@ -62,6 +62,18 @@ Manovich puede observar esta obra y maravillarse de que los diferentes medios so
   
   ## Conclusiones
   
+ A día de hoy resulta muy sencillo ver la hibridación cultural en acción. Los efectos de la globalización ha remodelado nuestros procesos mentales de representación del mundo. Cambiando constantes por variables, y *hardware* por *software* todo puede cambiar, todo es susceptible de ser renderizado de una manera nueva.
+ 
+**Manovich** se pregunta ¿cómo tiene lugar la revolución híbrida? Con el estudio de estos trabajos podemos ofrecer la primera aproximación a esa respuesta: la mayoría de las obras de arte y entretenimiento actuales basadas en  imagen en movimiento utilizan la **yuxtaposición de medios** y la **hibridación de técnicas** a la vez como núcleo operativo y principio estético basal.
+
+Como regla general en sociedades de consumo, como la nuestra, los creadores de *software* no tienen en mente el objetivo de crear ningún tipo de revolución. Lo más normal es que desarrollen sus productos para **acomodarse a procesos de producción** que están ya en funcionamiento, motivo por el cual todos tienen muchas **características similares entre sí.** 
+
+
+De esta manera podemos deducir que **la auténtica revolución proviene de los usuarios** de los distintos *softwares*, de los creadores, de los artistas que dan forma a esas nuevas obras híbridas, con ideas tomadas de medios distintos y variados, a los que dicho *software* ayuda a unir de la forma más efectiva y natural posible.
+
+
+Y nosotros, simples estudiosos de la cultura digital, tan solo deseamos seguir observando la evolución de esta revolución, (perdón por la cacofonía) y que **Lev Manovich siga siendo su mejor relator.**
+
 
 
 
