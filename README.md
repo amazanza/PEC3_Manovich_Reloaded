@@ -21,6 +21,7 @@ Se agrupan técnicas y formatos de representación de medios físicos y electró
   Lev Manovich. El software toma el mando. 2013. Pag 85.
 
 Hoy, casi diez años después, teniendo la posibilidad de contribuir a su obra, nos adentramos en la aventura de **presentar dos ejemplos** más que pudieran sumarse al catálogo de Manovich y, al mismo tiempo, dar muestra de la evolución de dicha hibridación de medios durante este periodo de tiempo.
+
 Para este proyecto nos hemos centrado en dos de las facetas que más se han visto beneficiadas por este proceso: **el entretenimiento y la cultura.**
 
 Exponemos nuestros casos de estudio:
