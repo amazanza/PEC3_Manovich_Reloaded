@@ -21,7 +21,7 @@ Se agrupan técnicas y formatos de representación de medios físicos y electró
   Lev Manovich. El software toma el mando. 2013. Pag 85.
 
 Hoy, casi diez años después, teniendo la posibilidad de contribuir a su obra, nos adentramos en la aventura de **presentar dos ejemplos** más que pudieran sumarse al catálogo de Manovich y, al mismo tiempo, dar muestra de la evolución de dicha hibridación de medios durante este periodo de tiempo.
-Para este proyecto nos hemos centrado en dos de las facetas que más se han visto beneficiadas por este proceso: **la cultura y el entretenimiento.**
+Para este proyecto nos hemos centrado en dos de las facetas que más se han visto beneficiadas por este proceso: **el entretenimiento y la cultura.**
 
 Exponemos nuestros casos de estudio:
 
@@ -41,6 +41,15 @@ A finales del año 2014 se estrena el primer capítulo del juego [**Juego de Tro
 
   La obra [***Crystal World***](https://www.youtube.com/watch?v=CqNV28AK894) (2006) de [**Ann Lislegaard**](https://en.wikipedia.org/wiki/Ann_Lislegaard) es una animación en 3D que relata el viaje a un laboratorio abandonado en una jungla que se está cristalizando lentamente. La animación se mueve a través de espacios arquitectónicos que combinan elementos de la [Casa de Vidrio de Lina Bo Bardi](https://www.youtube.com/watch?v=8RDMVHuKGN8&t=1s) (1951), ubicada en Morumbi, al sur de Sao Paulo, con el [Pabellón Matarazzo de Oscar Niemeyer](https://www.youtube.com/watch?v=aR-6DpASWwc) (1957), antiguo Palacio de la Industria de la misma ciudad.
   Acompañando al movimiento van apareciendo citas del protagonista de la novela [**“El mundo de cristal”**](https://en.wikipedia.org/wiki/The_Crystal_World), escrita por [**J. G. Ballard**](https://en.wikipedia.org/wiki/J._G._Ballard) y publicada en 1966. En la obra de Lislegaard, que **toma su nombre de esta novela**, se utilizan las palabras del doctor Edward Sander para **describir el espacio en el que se desarrolla** como un lugar de transformación, usándolo para resaltar y aunar aspectos tan diversos como la modernidad, la entropía, el progreso, las estructuras minimalistas y el paso del tiempo.
+  
+  La autora, **Ann Lislegaard**, es una artista que se ha caracterizado por una preferencia representativa sobre espacios arquitectónicos imaginarios y una navegación continua. En *Crystal World* ha conseguido **crear una estética de la hibridación** gracias a la **combinación de espacios creados por ordenador en 3D, formas abstractas y fotografías digitales. Todo ello renderizado en escala de grises.** Los espacios no chocan entre sí, ni se ven violentados por la introducción de figuras y objetos ajenos a ellos, sino que nos confrontan con las formas cambiantes que se van presentando continuamente ante nosotros. Al contrario, nos ofrece una estética de calma y continuidad, unos cambios visuales apenas identificables a pesar de ocurrir ante nuestros ojos. Todo ello realizado a través de **programas informáticos como After Effetcs.**
+  
+El mayor logro de la obra es que la distinción entre medios tan diversos es sutil y a la vez está perfectamente entrelazada, asumiendo que el espectador es lo suficientemente inteligente como para descubrir y al mismo tiempo disfrutar de esas transiciones que se suceden de forma tan delicada. 
+
+Según **Alan Kay**, a quien **Manovich** referencia a menudo en sus obras, el medio ordenador pasa a ser considerado metamedio, puesto que *“contiene medios que ya existen y a los aún no inventados”*. Este metamedio propicia que diferentes medios se vuelvan compatibles y al mismo tiempo puedan conservar sus identidades. Esta declaración está perfectamente recogida en *Crystal World.*
+
+Manovich podrá observar esta obra y maravillarse de que los diferentes medios son añadidos unos sobre otros, creando entre todos ellos la experiencia de un fluir continuo, y aún así preservar sus características únicas.
+
   
   ## Conclusiones
   
