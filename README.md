@@ -14,6 +14,17 @@ Fecha: Mayo 2022
 #
 
 ## Planteamiento
+Cuando **Lev Manovich** expuso en su libro **“El software toma el mando” (2013)** el concepto de *hibridación de los medios* claramente fue capaz de predecir el enorme alcance que esta nueva manera de percibir el mundo iba a tener en el desarrollo de la historia de la humanidad. Estudió el concepto como el **siguiente paso en la evolución** del concepto de productividad en todas las facetas del desarrollo humano y, como tal, realizó una serie de estudios de diversos casos en particular.
+
+>«Por lo tanto, si bien en 1977 Kay y Goldberg especularon que el nuevo metamedio ordenador contendría «un amplio abanico de medios ya existentes y otros aún por inventar», hoy por hoy podemos describir uno de los principales mecanismos que hay detrás de la invención de estos nuevos medios. Este mecanismo es la hibridación.
+Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones.».
+  Lev Manovich. El software toma el mando. 2013. Pag 85.
+
+Hoy, casi diez años después, teniendo la posibilidad de contribuir a su obra, nos adentramos en la aventura de **presentar dos ejemplos** más que pudieran sumarse al catálogo de Manovich y, al mismo tiempo, dar muestra de la evolución de dicha hibridación de medios durante este periodo de tiempo.
+Para este proyecto nos hemos centrado en dos de las facetas que más se han visto beneficiadas por este proceso: **la cultura y el entretenimiento.**
+
+Exponemos nuestros casos de estudio:
+
 - [Caso 1: Juego de Tronos: *A Telltales Games Series*](#head1)
 - [Caso 2: *Crystal world* de Ann Lislegaard](#head2)
 
