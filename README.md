@@ -75,7 +75,7 @@ De esta manera podemos deducir que **la auténtica revolución proviene de los u
 Y nosotros, simples estudiosos de la cultura digital, tan solo deseamos seguir observando la evolución de esta revolución, (perdón por la cacofonía) y que **Lev Manovich siga siendo su mejor relator.**
 
 
-
+***
 
 
 ### Referencias y bibliografía:
