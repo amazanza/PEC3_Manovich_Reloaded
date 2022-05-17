@@ -37,11 +37,11 @@ Llevar el universo de fantasía de [**Canción de Hielo y Fuego**](https://es.wi
 
 A finales del año 2014 se estrena el primer capítulo del juego [**Juego de Tronos:** ***A Telltale Games Series***](https://es.wikipedia.org/wiki/Juego_de_tronos_(videojuego_de_2014)), que transcurre paralelamente a los eventos de la [**serie de televisión de HBO.**](https://es.wikipedia.org/wiki/Game_of_Thrones) Una transición entre televisión y videojuego que ha resultado muy eficaz. Cuenta también con una narrativa muy potente y cinematográfica, y como aventura gráfica posee un esquema similar a los de los libros [**“Elige tu propia aventura”**](https://es.wikipedia.org/wiki/Elige_tu_propia_aventura), en los que las decisiones de los jugadores determinan el desarrollo del juego.
 
-El juego se basa más en la serie de televisión que en la obra literaria, optando en su jugabilidad en el camino más interesante para juegos basados en trabajos de otros medios: el de que los personajes jugables pertenezcan a una casa casi desconocida, lo que permite que los jugadores vivan sus propias aventuras dentro de este mundo. Aunque no se centra en los personajes principales, estos sí participan de una forma significativa. De hecho, muchas de las situaciones con estos personajes se han guionizado a propósito para el juego.
+El juego se basa más en la serie de televisión que en la obra literaria, optando en su jugabilidad por el camino más interesante para juegos basados en trabajos de otros medios: el de que los personajes jugables pertenezcan a una casa casi desconocida, lo que permite que los jugadores vivan sus propias aventuras dentro de este mundo. Aunque no se centra en los personajes principales, estos sí participan de una forma significativa. De hecho, muchas de las situaciones con estos personajes se han guionizado a propósito para el juego.
 
 Otro de los aciertos radica en la posibilidad de manejar a diversos personajes de la casa protagonista, no solo a uno, lo que enlaza perfectamente con la **estructura de POV**, o  punto de vista de cada personaje, que tienen los libros. Además nos permite entender la historia que ya conocemos desde enfoques y lugares diferentes.
 
-Los entendidos lo han catalogado como aventura gráfica, pero **desde un punto de vista de hibridación de medios** sería más válido llamarla **serie interactiva**. Se divide en episodios, cada cual con sus correspondientes títulos de crédito al inicio y al final; tiene *cliffhangers* entre un capítulo y otro; y su método de jugabilidad nos permite interactuar y tomar decisiones que definen los caminos por los que la historia va a tomar forma.
+Los entendidos lo han catalogado como aventura gráfica, pero **desde un punto de vista de hibridación de medios** sería más acertado llamarla **serie interactiva**. Se divide en episodios, cada cual con sus correspondientes títulos de crédito al inicio y al final; tiene *cliffhangers* entre un capítulo y otro; y su método de jugabilidad nos permite interactuar y tomar decisiones que definen los caminos por los que la historia va a tomar forma.
 
 Así pues, comprobamos como **en un mismo producto se han unido características de tres medios distintos hibridándose de manera natural y totalmente funcional.** Y esto solo ha sido posible, como bien **ha remarcado Manovich**, gracias al **nivel de compatibilidad** entre códigos, software, protocolos de red, formatos de archivos informáticos y modelos de negocio.
 
@@ -57,7 +57,7 @@ El mayor logro de la obra es que la distinción entre medios tan diversos es sut
 
 Según **Alan Kay**, a quien **Manovich** referencia a menudo en sus obras, el medio ordenador pasa a ser considerado metamedio, puesto que *“contiene medios que ya existen y a los aún no inventados”*. Este metamedio propicia que diferentes medios se vuelvan compatibles y al mismo tiempo puedan conservar sus identidades. Esta declaración está perfectamente representada en *Crystal World.*
 
-Manovich podrá observar esta obra y maravillarse de que los diferentes medios son añadidos unos sobre otros, creando entre todos ellos la experiencia de un fluir continuo, y aún así preservar sus características únicas.
+Manovich puede observar esta obra y maravillarse de que los diferentes medios son añadidos unos sobre otros, creando entre todos ellos la experiencia de un fluir continuo, y aún así preservar sus características únicas.
 
   
   ## Conclusiones
