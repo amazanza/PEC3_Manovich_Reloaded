@@ -46,7 +46,7 @@ A finales del año 2014 se estrena el primer capítulo del juego [**Juego de Tro
   
 El mayor logro de la obra es que la distinción entre medios tan diversos es sutil y a la vez está perfectamente entrelazada, asumiendo que el espectador es lo suficientemente inteligente como para descubrir y al mismo tiempo disfrutar de esas transiciones que se suceden de forma tan delicada. 
 
-Según **Alan Kay**, a quien **Manovich** referencia a menudo en sus obras, el medio ordenador pasa a ser considerado metamedio, puesto que *“contiene medios que ya existen y a los aún no inventados”*. Este metamedio propicia que diferentes medios se vuelvan compatibles y al mismo tiempo puedan conservar sus identidades. Esta declaración está perfectamente recogida en *Crystal World.*
+Según **Alan Kay**, a quien **Manovich** referencia a menudo en sus obras, el medio ordenador pasa a ser considerado metamedio, puesto que *“contiene medios que ya existen y a los aún no inventados”*. Este metamedio propicia que diferentes medios se vuelvan compatibles y al mismo tiempo puedan conservar sus identidades. Esta declaración está perfectamente representada en *Crystal World.*
 
 Manovich podrá observar esta obra y maravillarse de que los diferentes medios son añadidos unos sobre otros, creando entre todos ellos la experiencia de un fluir continuo, y aún así preservar sus características únicas.
 
