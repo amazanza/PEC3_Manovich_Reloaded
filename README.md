@@ -63,7 +63,7 @@ Manovich puede observar esta obra y maravillarse de cómo los diferentes medios 
   
   ## Conclusiones
   
- A día de hoy resulta muy sencillo ver la hibridación cultural en acción. Los efectos de la globalización han remodelado nuestros procesos mentales de representación del mundo. Cambiando constantes por variables y *hardware* por *software* todo puede cambiar, todo es susceptible de ser renderizado de una manera nueva.
+ A día de hoy resulta muy sencillo ver la hibridación cultural en acción. Los efectos de la globalización han remodelado nuestros procesos mentales de representación del mundo. Sustituyendo constantes por variables y *hardware* por *software* todo puede cambiar, todo es susceptible de ser renderizado de una manera nueva.
  
 **Manovich** se pregunta ¿cómo tiene lugar la revolución híbrida? Con el estudio de estos trabajos podemos ofrecer la primera aproximación a esa respuesta: la mayoría de las obras de arte y entretenimiento actuales basadas en  imagen en movimiento utilizan la **yuxtaposición de medios** y la **hibridación de técnicas** a la vez como núcleo operativo y como principio estético basal.
 
